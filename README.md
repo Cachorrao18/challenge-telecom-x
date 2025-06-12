@@ -6,9 +6,13 @@ Este projeto realiza uma análise exploratória de dados (EDA) sobre a evasão d
 🛠️ Tecnologias Utilizadas
 
 • Pandas - Para manipulação e análise de dados
+
 • NumPy - Para cálculos numéricos
+
 • Seaborn - Para visualizações gráficas
+
 • Matplotlib - Para criação de gráficos
+
 • Google Colab - Ambiente de execução
 
 📂 Estrutura do Projeto
@@ -54,9 +58,13 @@ Serviços adicionais como suporte técnico estão associados à maior retenção
 Formas de pagamento específicas têm maior relação com churn
 
 🚀 Próximos Passos
+
 ➤ Implementar modelo preditivo de churn com machine learning
+
 ➤ Desenvolver dashboard interativo com Streamlit
+
 ➤ Automatizar pipeline de dados com Airflow
+
 ➤ Realizar análise de segmentação de clientes
 
 👨‍💻 Autor

@@ -11,6 +11,7 @@ Este projeto realiza uma análise exploratória de dados (EDA) sobre a evasão d
 • Google Colab - Ambiente de execução
 
 📂 Estrutura do Projeto
+
 ├── challengetelecomx.ipynb
 
 ├── README.md #
